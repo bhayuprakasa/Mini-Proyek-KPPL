@@ -1,5 +1,6 @@
 # Mini-Proyek-KPPL
 
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
@@ -10,7 +11,7 @@
 <body><tr>
     <th align="right" scope="col"><table width="100%" border="1">
       <tr>
-        <th align="right" scope="col">Hi, Bhayu! <img src="Image/Tombol.png" alt="" width="130" height="21" /></th>
+        <th align="right" scope="col">Hi, Bhayu! <a href="Index.php"><img src="Image/Tombol.png" alt="" width="130" height="21" /></a></th>
       </tr>
     </table>
       <table width="100%" border="0">
