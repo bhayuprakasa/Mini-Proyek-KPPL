@@ -63,7 +63,7 @@ function MM_swapImage() { //v3.0
 </table>
 <table width="80%" border="1">
   <tr>
-    <th align="right" scope="col"><img src="Image/Edit Event.png" alt="Edit" width="125" height="19"> <img src="Image/Delete Event.png" alt="Del" width="100" height="19"></th>
+    <th align="right" scope="col"><a href="Edit Event.php"><img src="Image/Edit Event.png" alt="Edit" width="125" height="19"></a> <a href="Sukses Delete Event.php"><img src="Image/Delete Event.png" alt="Del" width="100" height="19"></a></th>
   </tr>
 </table>
 <p>&nbsp;</p>
