@@ -29,35 +29,40 @@ function MM_swapImage() { //v3.0
 </script>
 <style type="text/css">
 body,td,th {
+	font-family: "Arial Black", Gadget, sans-serif;
 	font-size: x-large;
 }
 </style>
 </head>
 
-<body onload="MM_preloadImages('Image/Home.png','Image/Event Gal 1.png','Image/About 1.png')">
+<body onLoad="MM_preloadImages('Image/Login 1.png','Image/Sign up 1.png','Image/Home.png','Image/Event Gal 1.png','Image/About 1.png')">
 <table width="100%" border="0">
   <tr>
-    <th align="right" scope="col">Hi, Bhayu! <a href="Index.php"><img src="Image/Tombol.png" alt="" width="130" height="21" /></a></th>
+    <th width="19" height="109" align="right" valign="middle"><table width="100%" border="0">
+      <tr>
+        <th width="19%" scope="col">&nbsp;</th>
+        <th align="right" scope="col">Hi, Welcome! <a href="Login.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Login','','Image/Login 1.png',1)"><img src="Image/Login.png" alt="" width="130" height="21" id="Login" /></a><a href="Sign Up.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Sign Up','','Image/Sign up 1.png',1)"><img src="Image/Sign up.png" alt="" width="130" height="21" id="Sign Up" /></a></th>
+        <th align="right" scope="col">&nbsp;</th>
+      </tr>
+    </table>
+    <p><img src="Image/Logo.png" alt="" width="579" height="110" /></p></th>
   </tr>
 </table>
 <table width="100%" border="0">
   <tr>
-    <th height="130" colspan="2" align="right" valign="middle"><img src="Image/Logo.png" alt="" width="579" height="110" /></th>
+    <td height="65" align="center" valign="middle"><a href="Index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="Home" width="180" height="38" id="Home" /></a><a href="Event Gallery.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="Event Gal" width="309" height="38" id="Event Gal" /></a><a href="Event.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event','','Image/Event 1.png',0)"><img src="Image/Event.png" alt="Event" width="116" height="38" id="Event" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="About" width="214" height="38" id="About" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
   </tr>
 </table>
 <table width="100%" border="0">
   <tr>
-    <td colspan="2" align="center" valign="middle"><a href="Homepage Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="Home" width="180" height="38" id="Home" /></a><a href="Event Gallery Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="Event Gal" width="309" height="38" id="Event Gal" /></a><a href="Event Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',0)"><img src="Image/Event.png" alt="Event" width="116" height="38" id="Event" /></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="About" width="214" height="38" id="About" /></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
-    <td height="65" align="center" valign="middle">&nbsp;</td>
+    <td height="65" colspan="2" align="center" valign="middle">&nbsp;</td>
   </tr>
 </table>
-<table width="100%" border="0">
+<table width="100%" height="175" border="0">
   <tr>
-    <th height="174" scope="col">Selamat profile Anda berhasil dirubah!</th>
+    <th scope="col">Welcome to join Us!</th>
   </tr>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 </body>
 </html>
