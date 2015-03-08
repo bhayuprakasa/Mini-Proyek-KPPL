@@ -1,5 +1,5 @@
 # Mini-Proyek-KPPL
-        
+           
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -57,6 +57,12 @@
         <td align="center">Deskripsi</td>
       </tr>
     </table>
+    <table width="72%" border="0">
+      <tr>
+        <th align="right" scope="col"><a href="Join Event.php"><img src="Image/Join.png" width="58" height="18"></a> <a href="Diskusi.php"><img src="Image/Diskusi.png" width="108" height="18"></a></th>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
     <p>&nbsp;	</p>
     </body>
     </html>
