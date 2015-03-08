@@ -1,5 +1,5 @@
 # Mini-Proyek-KPPL
-        
+          
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Untitled Document</title>
@@ -49,7 +49,7 @@
         <td height="65" align="center" valign="middle">&nbsp;</td>
       </tr>
     </table>
-    <table width="57%" border="1">
+    <table width="57%" border="0">
       <tr>
         <th colspan="2" align="left" scope="col">Who Join My Event</th>
       </tr>
@@ -63,7 +63,7 @@
         <td width="76%">Last Update</td>
       </tr>
     </table>
-    <table width="50%" border="1">
+    <table width="50%" border="0">
       <tr>
         <th align="right" scope="col"><a href="Notifikasi Bukti Relawan.php"><img src="Image/Validate.png" alt="Validate" width="112" height="27"></a> <a href="Notifikasi penolakan Bukti Relawan.php"><img src="Image/Ignore.png" alt="Ignore" width="108" height="27"></a></th>
       </tr>
