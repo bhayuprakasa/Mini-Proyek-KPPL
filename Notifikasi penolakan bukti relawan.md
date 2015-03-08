@@ -1,5 +1,5 @@
 # Mini-Proyek-KPPL
-   <head>
+  <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
 <script type="text/javascript">
@@ -38,7 +38,11 @@ function MM_swapImage() { //v3.0
   <th align="right" scope="col">    <p>&nbsp;</p></th>
   </tr>
   <tr>
-    <th height="109" colspan="2" align="right" valign="middle"><img src="Image/Logo.png" alt="" width="579" height="110" /></th>
+    <th height="109" colspan="2" align="right" valign="middle"><table width="100%" border="0">
+      <tr>
+          <th align="right" scope="col"><img src="Image/Logo.png" alt="" width="579" height="110" /></th>
+      </tr>
+    </table></th>
   </tr>
 <tr>
   <td height="65" colspan="2" align="center" valign="middle"><p>&nbsp;</p>
@@ -51,7 +55,7 @@ function MM_swapImage() { //v3.0
     </table>
   <p><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"></a></p></td>
   </tr>
-<table width="100%" height="130" border="1">
+<table width="100%" height="130" border="0">
   <tr>
     <th scope="col">It has been ignored!</th>
   </tr>
