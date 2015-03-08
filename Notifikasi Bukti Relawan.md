@@ -40,7 +40,12 @@ function MM_swapImage() { //v3.0
   <th align="right" scope="col">    <p>&nbsp;</p></th>
   </tr>
   <tr>
-    <th height="109" colspan="2" align="right" valign="middle"><p><img src="Image/Logo.png" alt="" width="579" height="110" /></p>
+    <th height="109" colspan="2" align="right" valign="middle"><p>&nbsp;</p>
+      <table width="100%" border="0">
+        <tr>
+          <th align="right" scope="col"><img src="Image/Logo.png" alt="" width="579" height="110" /></th>
+        </tr>
+      </table>
       <table width="100%" border="0">
         <tr>
           <td colspan="2" align="center" valign="middle"><a href="Homepage Login.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="Home" width="180" height="38" id="Home" /></a><a href="Event Gallery Login.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="Event Gal" width="309" height="38" id="Event Gal" /></a><a href="Event Login.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event','','Image/Event 1.png',0)"><img src="Image/Event.png" alt="Event" width="116" height="38" id="Event" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="About" width="214" height="38" id="About" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
@@ -53,7 +58,7 @@ function MM_swapImage() { //v3.0
 <tr>
     <td height="65" colspan="2" align="center" valign="middle"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
 </tr>
-<table width="100%" height="115" border="1">
+<table width="100%" height="115" border="0">
   <tr>
     <th height="12" align="center" scope="col"> Validation is Completed!</th>
   </tr>
