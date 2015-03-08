@@ -1,5 +1,5 @@
 # Mini-Proyek-KPPL
-    
+        
     <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -46,7 +46,7 @@
         <td height="65" colspan="2" align="center" valign="middle"><a href="Index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="Home" width="180" height="38" id="Home" /></a><a href="Event Gallery.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="Event Gal" width="309" height="38" id="Event Gal" /></a><a href="Event.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event','','Image/Event 1.png',0)"><img src="Image/Event.png" alt="Event" width="116" height="38" id="Event" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="About" width="214" height="38" id="About" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
       </tr>
     </table>
-    <table width="100%" border="1">
+    <table width="100%" border="0">
       <tr>
         <th align="center" scope="col">Title</th>
       </tr>
