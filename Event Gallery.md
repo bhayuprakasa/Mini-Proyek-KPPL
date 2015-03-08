@@ -1,4 +1,9 @@
 # Mini-Proyek-KPPL
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -22,23 +27,27 @@ function MM_swapImage() { //v3.0
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
 </script>
-<style type="text/css">
-body,td,th {
-	font-size: 16px;
-}
-</style>
-<body onLoad="MM_preloadImages('Image/About 1.png','Image/Home.png','Image/Login 1.png','Image/Sign up 1.png','Image/Event Gal 1.png')"><table width="100%" border="0">
+</head>
+
+<body onload="MM_preloadImages('Image/Home.png','Image/Event Gal 1.png','Image/About 1.png')">
+<table width="100%" border="0">
   <tr>
-    <th width="19" height="109" align="right" valign="middle"><table width="100%" border="0">
-      <tr>
-        <th align="right" scope="col">Hi, Welcome! <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Login','','Image/Login 1.png',1)"><img src="Image/Login.png" alt="" width="130" height="21" id="Login" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Sign Up','','Image/Sign up 1.png',1)"><img src="Image/Sign up.png" alt="" width="130" height="21" id="Sign Up" /></a></th>
-      </tr>
-    </table>      <p><img src="Image/Logo.png" width="579" height="110"></p></th>
-  </tr>
-  <tr>
-    <td height="65" align="center" valign="middle"><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="" width="180" height="38" id="Home" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="" width="309" height="38" id="Event Gal" /><img src="Image/Event.png" alt="" width="116" height="38" id="Event" /></a><a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="" width="214" height="38" id="About" /></a></td>
+    <th align="right" scope="col">Hi, Username! <a href="Index.php"><img src="Image/Tombol.png" alt="" width="130" height="21" /></a></th>
   </tr>
 </table>
+<table width="100%" border="0">
+  <tr>
+    <th height="109" colspan="2" align="right" valign="middle"><img src="Image/Logo.png" alt="" width="579" height="110" /></th>
+  </tr>
+</table>
+<table width="100%" border="0">
+  <tr>
+    <td colspan="2" align="center" valign="middle"><a href="Homepage Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home','','Image/Home.png',1)"><img src="Image/Home 1.png" alt="Home" width="180" height="38" id="Home" /></a><a href="Event Gallery Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><img src="Image/Event Gal.png" alt="Event Gal" width="309" height="38" id="Event Gal" /></a><a href="Event Login.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',0)"><img src="Image/Event.png" alt="Event" width="116" height="38" id="Event" /></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Image/About 1.png',1)"><img src="Image/About.png" alt="About" width="214" height="38" id="About" /></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event Gal','','Image/Event Gal 1.png',1)"><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Event','','Image/Event 1.png',1)"></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About','','Image/About 1.png',1)"></a></td>
+    <td align="center" valign="middle">&nbsp;</td>
+    <td height="65" colspan="2" align="center" valign="middle">&nbsp;</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
 <table width="100%" height="328" border="0">
   <tr>
     <th colspan="3" align="center" scope="col"><strong>Albums</strong></th>
@@ -49,17 +58,17 @@ body,td,th {
     <td width="34%" align="center">Kesehatan</td>
   </tr>
   <tr>
-    <td height="96" align="center"><img src="Image/Lingkungan 1.jpg" width="105" height="85"><img src="Image/Lingkungan 2.jpg" width="105" height="85"></td>
-    <td align="center"><img src="Image/Pendidikan 1.jpg" width="105" height="85"><img src="Image/Pendidikan 2.jpg" width="105" height="85"></td>
-    <td align="center"><img src="Image/Kesehatan 1.jpg" width="105" height="85"><img src="Image/Kesehatan 2.jpg" width="105" height="85"></td>
+    <td height="96" align="center">Gambar Gambar</td>
+    <td align="center">Gambar Gambar</td>
+    <td align="center">Gambar Gambar</td>
   </tr>
   <tr>
-    <td height="56" align="center"><img src="Image/lingkungan 3.jpg" width="105" height="85"><img src="Image/Lingkungan 4.jpg" width="105" height="85"></td>
-    <td align="center"><img src="Image/Pendidikan 3.jpg" width="105" height="85"><img src="Image/Pendidikan 4.jpg" width="105" height="85"></td>
-    <td align="center"><img src="Image/Kesehatan 3.jpg" width="105" height="85"><img src="Image/Kesehatan 4.jpg" width="105" height="85"></td>
+    <td height="56" align="center">Gambar Gambar</td>
+    <td align="center">Gambar Gambar</td>
+    <td align="center">Gambar Gambar</td>
   </tr>
-</table> 
-
-
-
-
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
