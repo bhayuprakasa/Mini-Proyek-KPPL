@@ -1,5 +1,5 @@
 # Mini-Proyek-KPPL
-    
+        
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Untitled Document</title>
@@ -65,7 +65,7 @@
     </table>
     <table width="50%" border="1">
       <tr>
-        <th align="right" scope="col"><img src="Image/Validate.png" alt="Validate" width="112" height="27"> <img src="Image/Ignore.png" alt="Ignore" width="108" height="27"></th>
+        <th align="right" scope="col"><a href="Notifikasi Bukti Relawan.php"><img src="Image/Validate.png" alt="Validate" width="112" height="27"></a> <a href="Notifikasi penolakan Bukti Relawan.php"><img src="Image/Ignore.png" alt="Ignore" width="108" height="27"></a></th>
       </tr>
     </table>
     <p>&nbsp;</p>
