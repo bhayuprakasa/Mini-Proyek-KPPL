@@ -61,7 +61,7 @@ function MM_swapImage() { //v3.0
 </form>
 <table width="88%" border="0">
   <tr>
-    <th align="right" scope="col"><img src="Image/Submit.png" width="71" height="22" /></th>
+    <th align="right" scope="col"><a href="Event Lengkap.php"><img src="Image/Submit.png" width="71" height="22" /></a></th>
   </tr>
 </table>
 <p>&nbsp;</p>
