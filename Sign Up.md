@@ -145,7 +145,7 @@ function MM_swapImage() { //v3.0
 <table width="47%" border="0">
   <tr>
     <th align="right" scope="col"><form id="form1" name="form1" method="post" action="">
-      <a href="Sukses Sign Up.php">Submit</a>
+      <a href="Sukses Sign Up.php"><img src="Image/Submit.png" width="74" height="23" /></a>
     </form></th>
   </tr>
 </table>
