@@ -31,7 +31,7 @@ function MM_swapImage() { //v3.0
 <body onLoad="MM_preloadImages('Image/Home.png','Image/Event Gal 1.png','Image/About 1.png')">
 <table width="100%" border="0">
   <tr>
-    <th align="right" scope="col">Hi, Bhayu! <img src="Image/Tombol.png" alt="" width="130" height="21" /></th>
+    <th align="right" scope="col">Hi, Bhayu...! <img src="Image/Tombol.png" alt="" width="130" height="21" /></th>
   </tr>
 </table>
 <table width="100%" border="0">
